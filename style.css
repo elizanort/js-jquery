@@ -1,0 +1,23 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+.accordion{
+    list-style-type: none;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    padding: 1rem;
+    border-radius: .5rem;
+    
+}
+
+.toggle{
+    color: rgb(26, 25, 25);
+    background-color: rgb(248, 229, 212);
+    width: 20rem;
+    height: 4rem;
+    text-align: left;
+}
